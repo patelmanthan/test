@@ -1,19 +1,17 @@
 hiii
-
 php
-
 hello
 how are you
 java
 I am Fine
 
 My Name is Khan
-
 Chirag Bharwad
-=======
-
 meet chaudhary
-
 My Name is meet
+<<<<<<< HEAD
 30markhan.....!!
+
+meet chaudhary returns
+
 
