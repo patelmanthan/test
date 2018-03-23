@@ -1,7 +1,19 @@
 hiii
+
+php
+
 hello
 how are you
+java
 I am Fine
+<<<<<<< HEAD
 My Name is Khan
 
 Chirag Bharwad
+=======
+
+meet chaudhary
+
+My Name is meet
+
+>>>>>>> 1e9451cbe841737fcd1312e75cc6c042a88754ad
